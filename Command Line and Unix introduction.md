@@ -22,7 +22,7 @@ Open a Terminal window on Mac. In Launchpad, search for &quot;Terminal.&quot;
 
 
 
-![test](assets/Command Line and Unix introduction-f816c43b.png)
+![]("assets/Command Line and Unix introduction-f816c43b.png")
 
 ![](assets/Command Line and Unix introduction-435b2696.png)
 
