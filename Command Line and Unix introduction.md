@@ -20,8 +20,8 @@ You need to know your way around your file system and the terminal window becaus
 
 Open a Terminal window on Mac.   In Launchpad, search for &quot;Terminal.&quot;
 
-![](/assets/Command Line and Unix introduction-f816c43b.png)
-![](/assets/Command Line and Unix introduction-435b2696.png)
+![](assets/Command Line and Unix introduction-f816c43b.png)
+![](assets/Command Line and Unix introduction-435b2696.png)
 
 Try typing &quot;ls&quot; and then &quot;return&quot; and see what you get.  You&#39;re on your way.
 
