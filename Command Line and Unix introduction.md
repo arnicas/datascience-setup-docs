@@ -19,8 +19,9 @@ To write and run programs on your machine (not in a Jupyter notebook) you will n
 You need to know your way around your file system and the terminal window because these will come up pretty quickly.  Understanding the file system is #1 priority, because you can&#39;t do anything in code (including web html/css) without being able to understand file paths.
 
 Open a Terminal window on Mac.   In Launchpad, search for &quot;Terminal.&quot;
-![](assets/Command Line and Unix introduction-f816c43b.png)
-![](assets/Command Line and Unix introduction-435b2696.png)
+
+![](/assets/Command Line and Unix introduction-f816c43b.png)
+![](/assets/Command Line and Unix introduction-435b2696.png)
 
 Try typing &quot;ls&quot; and then &quot;return&quot; and see what you get.  You&#39;re on your way.
 
