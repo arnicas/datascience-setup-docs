@@ -20,19 +20,18 @@ You need to know your way around your file system and the terminal window becaus
 
 Open a Terminal window on Mac. In Launchpad, search for &quot;Terminal.&quot;
 
+<img alt="Command Line and Unix introduction-f816c43b.png" src="assets/Command Line and Unix introduction-f816c43b.png" width="" height="" >
 
+<img alt="Command Line and Unix introduction-435b2696.png" src="assets/Command Line and Unix introduction-435b2696.png" width="" height="" >
 
-<img src="assets/Command Line and Unix introduction-f816c43b.png">
-
-![](assets/Command Line and Unix introduction-435b2696.png)
 
 Try typing &quot;ls&quot; and then &quot;return&quot; and see what you get.  You&#39;re on your way.
 
 Open a command prompt on Windows. Click on search , type &quot;CMD.&quot;
 
-![](assets/Command Line and Unix introduction-e4c67a0c.png)
+<img alt="Command Line and Unix introduction-e4c67a0c.png" src="assets/Command Line and Unix introduction-e4c67a0c.png" width="" height="" >
 
-![](assets/Command Line and Unix introduction-f8b08511.png)
+<img alt="Command Line and Unix introduction-f8b08511.png" src="assets/Command Line and Unix introduction-f8b08511.png" width="" height="" >
 
 Try typing &quot;dir&quot;,this command will display all the files and folders in the current directory, and then type &quot;cls&quot; and see what happens.
 
