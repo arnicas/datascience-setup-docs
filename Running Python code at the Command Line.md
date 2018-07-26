@@ -47,7 +47,8 @@ Follow the steps to add python to the ENVIRONMENT
 - Then select "Advanced System Settings"
     <img alt="Running Python code at the Command Line-0155f77f.png" src="assets/Running Python code at the Command Line-0155f77f.png" width="" height="" >  
 - From the popup select “Environment variables”, the following popup will open. Then double click on “path” from the variable
-  <img alt="Running Python code at the Command Line-514eba0a.png" src="assets/Running Python code at the Command Line-514eba0a.png" width="" height="" >
+
+<img alt="Running Python code at the Command Line-514eba0a.png" src="assets/Running Python code at the Command Line-514eba0a.png" width="" height="" >
 - In the following popup which opens click on new
   <img alt="Running Python code at the Command Line-cce7902e.png" src="assets/Running Python code at the Command Line-cce7902e.png" width="" height="" >
 - Then you will have to enter the path where your python is installed
