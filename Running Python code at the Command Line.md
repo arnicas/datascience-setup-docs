@@ -41,7 +41,8 @@ Follow the steps to add python to the ENVIRONMENT
 <img alt="Running Python code at the Command Line-72d3f8f1.png" src="assets/Running Python code at the Command Line-72d3f8f1.png" width="" height="" >
 
 - Then click on “SYSTEM”
-   <img alt="Running Python code at the Command Line-ca116156.png" src="assets/Running Python code at the Command Line-ca116156.png" width="" height="" >
+
+<img alt="Running Python code at the Command Line-ca116156.png" src="assets/Running Python code at the Command Line-ca116156.png" width="" height="" >
 
 - Then select "Advanced System Settings"
     <img alt="Running Python code at the Command Line-0155f77f.png" src="assets/Running Python code at the Command Line-0155f77f.png" width="" height="" >  
