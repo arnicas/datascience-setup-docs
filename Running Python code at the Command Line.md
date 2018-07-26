@@ -58,7 +58,7 @@ Follow the steps to add python to the ENVIRONMENT
 **“C:\Users\username\AppData\Local\Continuum\anaconda3\Scripts\”**
 - If you had installed python without Anaconda the path will be similar to
 **“C:\Users\username\AppData\Local\Programs\Python\Python36-32\”**
-    - i.	Then click on new again and enter
+- i.	Then click on new again and enter
 **“C:\Users\username\AppData\Local\Programs\Python\Python3632\Scripts\”**
 
 #### Video on how to add Python to ENV in windows 10
