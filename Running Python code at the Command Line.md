@@ -52,11 +52,11 @@ Follow the steps to add python to the ENVIRONMENT
 - In the following popup which opens click on new
   <img alt="Running Python code at the Command Line-cce7902e.png" src="assets/Running Python code at the Command Line-cce7902e.png" width="" height="" >
 - Then you will have to enter the path where your python is installed
-  - If you had installed through Anaconda the path will be similar to this
+- If you had installed through Anaconda the path will be similar to this
 **“C:\Users\username\AppData\Local\Continuum\anaconda3\”**
-    - Then click on new again and enter
+- Then click on new again and enter
 **“C:\Users\username\AppData\Local\Continuum\anaconda3\Scripts\”**
-  - If you had installed python without Anaconda the path will be similar to
+- If you had installed python without Anaconda the path will be similar to
 **“C:\Users\username\AppData\Local\Programs\Python\Python36-32\”**
     - i.	Then click on new again and enter
 **“C:\Users\username\AppData\Local\Programs\Python\Python3632\Scripts\”**
