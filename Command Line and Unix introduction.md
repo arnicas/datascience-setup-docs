@@ -62,4 +62,4 @@ Extra documents that might help:
 
 * Working with directories and files on mac [https://www.youtube.com/watch?time\_continue=661&amp;v=Vhcx4KJbtes](https://www.youtube.com/watch?time_continue=661&amp;v=Vhcx4KJbtes)
 * Working with directories in CMD windows [https://www.youtube.com/watch?v=MNwErTxfkUA](https://www.youtube.com/watch?v=MNwErTxfkUA)
-* Working with directories in UNIX [https://www.youtube.com/embed/cX9ASUE3YAQ?s](https://www.youtube.com/embed/cX9ASUE3YAQ?start=174&amp;end=1080) [tart=174&amp;end=1080](https://www.youtube.com/embed/cX9ASUE3YAQ?start=174&amp;end=1080)
+* Working with directories in UNIX [https://www.youtube.com/embed/cX9ASUE3YAQ](https://www.youtube.com/embed/cX9ASUE3YAQ?start=174&amp;end=1080)

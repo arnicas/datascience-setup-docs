@@ -4,13 +4,13 @@
 
 We recommend the Anaconda distribution from Continuum Analytics.
 
-**Installation for MAC:**
+#### Installation for MAC:
 
 [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
 You should install the version for Python 3.5.
 
-**Installation guide for windows**
+#### Installation guide for windows
 
 [https://conda.io/docs/user-guide/install/windows.html](https://conda.io/docs/user-guide/install/windows.html)
 
@@ -30,19 +30,19 @@ This is the notebook view while it is running – this is essentially a file bro
 
 <img alt="JupyterNotebookBasics-6447439d.png" src="assets/JupyterNotebookBasics-6447439d.png" width="" height="" >
 
-The Jupyter Notebook Intro
+## The Jupyter Notebook Intro
 
 Although you can write code in a text editor and run it at the command line, it’s simpler and more fun to use the Jupyter Notebook, which runs in your web browser.  You will also use the Notebook to do your homework.
 
-Watch this video for an overview of how to use the notebook:  
+#### Watch this video for an overview of how to use the notebook:  
 
 [https://www.youtube.com/watch?v=DLWBfR2hxoo&feature=youtu.be](https://www.youtube.com/watch?v=DLWBfR2hxoo&feature=youtu.be)
 
-You can also review this:
+#### You can also review this:
 
 [https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb](https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb)
 
-### Finding a Notebook and Opening It
+## Finding a Notebook and Opening It
 
 If you start the notebook from the Anaconda Navigator, it will show you the list of folders (“directories”) at the top of your User Directory, to start with.  If you need to find the User directory on your machine, try clicking on your hard drive, and finding USER or Users, and your name under it.  On my Mac, it’s here where you see “cherny” and the house icon:
 
@@ -67,13 +67,13 @@ Here I have navigated into the course file and here is the Week1 notebook:
 
 <img alt="JupyterNotebookBasics-43461457.png" src="assets/JupyterNotebookBasics-43461457.png" width="" height="" >
 
-### Create a New Notebook
+## Create a New Notebook
 
 When you need to or want to create a new notebook you will use the NEW button on the right side – pick Python [root] or Python 3, if it shows that.  (You will be editing the notebooks we give you for the homework, though.  But you can do scratch work in a new one if you want.)
 
 <img alt="JupyterNotebookBasics-b19e045f.png" src="assets/JupyterNotebookBasics-b19e045f.png" width="" height="" >
 
-### Using the Notebook for Code
+## Using the Notebook for Code
 
 - Add a new “cell” to the notebook with the + icon
     <img alt="JupyterNotebookBasics-faaa2822.png" src="assets/JupyterNotebookBasics-faaa2822.png" width="" height="" >
@@ -82,7 +82,7 @@ When you need to or want to create a new notebook you will use the NEW button on
 - 	To see values of variables or print, you can either put a variable alone in a cell and execute it, or use  a “print(var)” statement (replacing “var” with the name of your variable).  In this example, we defined var as the string of characters “hi” and then we checked it by using 2 methods, evaluating it in a cell (2, which has the output below in “Out[2]”) and by printing it (3).
   <img alt="JupyterNotebookBasics-7309c273.png" src="assets/JupyterNotebookBasics-7309c273.png" width="" height="" >
 
-### Text Cells in the Notebook
+## Text Cells in the Notebook
 You can create text in the notebook too.  For example, do this by typing “Question 1” in a new cell, and then changing the type at the top using the dropdown menu that shows “Code” by default.  Change it to Markdown.  The style of the cell will change.  You still need to evaluate it with “shift-enter” or the run button.
 
 <img alt="JupyterNotebookBasics-4fc026ba.png" src="assets/JupyterNotebookBasics-4fc026ba.png" width="" height="" >
@@ -91,7 +91,7 @@ After you evaluate this cell (click shift-enter, or the run button) using markdo
 
 <img alt="JupyterNotebookBasics-8d0aea93.png" src="assets/JupyterNotebookBasics-8d0aea93.png" width="" height="" >
 
-### The Notebook Files You Turn In
+## The Notebook Files You Turn In
 
 Save your work using the save button on the notebook toolbar:
 
@@ -119,7 +119,7 @@ Do not change the file name.  Put your name inside the first cell on top that as
 
 <img alt="JupyterNotebookBasics-b67657a2.png" src="assets/JupyterNotebookBasics-b67657a2.png" width="" height="" >
 
-Installing Python Packages
+## Installing Python Packages
 
 If you get an error during import of something (such as import collections or import math), it means a package isn’t installed yet.  That shouldn’t happen in this course, but probably will.  (For instance, “mock” isn’t installed by default and is needed for the grading.)
 

@@ -25,13 +25,18 @@ If you want to try some of the code you see in the book that is not in a Trinket
 When you copy it, you must delete the >>> that appears in front of the lines:
 
 Book:
+
 <img alt="Using the Online Trinket Book-1f10b369.png" src="assets/Using the Online Trinket Book-1f10b369.png" width="" height="" >
+
 To check the value was assigned, you will then check “speed” in your notebook:
+
 <img alt="Using the Online Trinket Book-e8a04dc2.png" src="assets/Using the Online Trinket Book-e8a04dc2.png" width="" height="" >
+
 That output reports 200 is a string, because of the quotes.  I can’t do math with it.  How would I convert it to an integer number?  The answer is in the text.
 
 
 There is a new widget for running code in chapter 3:
+
 <img alt="Using the Online Trinket Book-b3a821ca.png" src="assets/Using the Online Trinket Book-b3a821ca.png" width="" height="" >
 
 You can edit the code on the left side and run it using the arrow on top.  The answer will appear on the right side!
