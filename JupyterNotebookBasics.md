@@ -6,7 +6,7 @@ We recommend the Anaconda distribution from Continuum Analytics.
 
 #### Installation for MAC:
 
-[https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+[https://www.anaconda.com/download/#macos](https://www.anaconda.com/download/#macos)
 
 You should install the version for Python 3.5.
 
